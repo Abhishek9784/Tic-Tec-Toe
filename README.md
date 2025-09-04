@@ -1,12 +1,12 @@
-# Tic-Tec-Toe
+## Tic-Tec-Toe
 
 A simple and engaging web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-# Demo
+## Demo
 
 Play the game live here: https://tic-tec-toe01.netlify.app
 
-# Features
+## Features
 
   • Classic 3×3 Tic-Tac-Toe gameplay
 
@@ -20,7 +20,7 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
   • Game reset to start a new match
 
-# Technologies Used
+## Technologies Used
 
   • HTML — for structuring the gameplay grid and UI
 
@@ -28,7 +28,7 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
   • JavaScript — to manage game logic, player turns, win/draw detection, and UI updates
 
-# Installation & Usage
+## Installation & Usage
 
 1. Clone the repository:
    
@@ -39,7 +39,7 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
 3. Play the game, and click the “Reset” (or similar) button to restart anytime.
 
-# How It Works
+## How It Works
 
   a) The HTML defines a 3×3 grid with clickable elements.
 
@@ -49,7 +49,7 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
   d) Players can restart to play again.
 
-# Contributing
+## Contributing 🤝
 
   • Contributions are welcome! Feel free to:
 
@@ -59,6 +59,14 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
   • Add an AI opponent or enhancements like score tracking or animations
 
-# License
+## License
 
-  This project is open-sourced under the MIT License — feel free to fork, modify and share it.
+  Distribute, modify, or use this project under the terms of the [MIT License](LICENSE).
+
+## Authors
+
+- [@Abhishek9784](https://www.github.com/Abhishek9784)
+
+---
+
+Thank you for using the Tic-Tec-Toe.
