@@ -21,11 +21,6 @@ Play the game live here: https://tic-tec-toe01.netlify.app
   • Game reset to start a new match
   
 
-## Screenshots
-
-
-
-
 ## Technologies Used
 
   • HTML — for structuring the gameplay grid and UI
