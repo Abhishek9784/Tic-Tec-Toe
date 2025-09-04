@@ -31,5 +31,6 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 # Installation & Usage
 
 1. Clone the repository:
+   
    git clone https://github.com/Abhishek9784/Tic-Tec-Toe.git cd Tic-Tec-Toe
 
