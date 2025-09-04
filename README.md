@@ -39,3 +39,26 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
 3. Play the game, and click the “Reset” (or similar) button to restart anytime.
 
+# How It Works
+
+  a) The HTML defines a 3×3 grid with clickable elements.
+
+  b) JavaScript tracks who's turn it is, checks for winning combinations or a full grid.
+
+  c) When a player wins or the game ends in a draw, a message is displayed.
+
+  d) Players can restart to play again.
+
+# Contributing
+
+  • Contributions are welcome! Feel free to:
+
+  • Suggest improvements or new features
+
+  • Fix bugs or optimize code
+
+  • Add an AI opponent or enhancements like score tracking or animations
+
+# License
+
+  This project is open-sourced under the MIT License — feel free to fork, modify and share it.
