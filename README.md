@@ -19,6 +19,12 @@ Play the game live here: https://tic-tec-toe01.netlify.app
   • Instant win announcement
 
   • Game reset to start a new match
+  
+
+## Screenshots
+
+
+
 
 ## Technologies Used
 
