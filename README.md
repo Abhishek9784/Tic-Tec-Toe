@@ -32,5 +32,10 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
 1. Clone the repository:
    
-   git clone https://github.com/Abhishek9784/Tic-Tec-Toe.git cd Tic-Tec-Toe
+   git clone https://github.com/Abhishek9784/Tic-Tec-Toe.git
+   cd Tic-Tec-Toe
+
+2. Open index.html in your preferred web browser—or simply visit the live demo.
+
+3. Play the game, and click the “Reset” (or similar) button to restart anytime.
 
