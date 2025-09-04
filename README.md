@@ -8,7 +8,7 @@ Play the game live here: https://tic-tec-toe01.netlify.app
 
 # Features
 
-    • Classic 3×3 Tic-Tac-Toe gameplay
+• Classic 3×3 Tic-Tac-Toe gameplay
 
 • Two-player mode: Players alternate placing X and O
 
